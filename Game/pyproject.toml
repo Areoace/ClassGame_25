@@ -1,0 +1,9 @@
+[project]
+name = "ultimate-casino-game"
+version = "0.1.0"
+description = "Single-file console casino game"
+authors = ["Team-Blade <noreply@example.com>"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

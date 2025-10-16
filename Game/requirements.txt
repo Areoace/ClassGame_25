@@ -1,0 +1,6 @@
+# This project (main.py) only uses Python standard library modules:
+# - random
+# - json
+# - os
+# No third-party packages detected. If you add external libraries, list them here (one per line), e.g.:
+# requests==2.31.0
